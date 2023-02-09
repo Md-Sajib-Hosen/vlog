@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.vlog{
+    /* border: 5px solid lawngreen; */
+    border-top-left-radius: 30px ;
+    border-bottom-right-radius: 30px;
+    margin: 40px;
+    padding: 10px;
+}
+h2{
+    color: #ff00ff;
+    text-decoration: underline wavy lawngreen 5px;
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+p{
+    color: blueviolet;
+}
+.header{
+    /* display: none; */
+    height: 500px;
+    background-image: url(../images/butterfly.png);
+    background-repeat: no-repeat;
+    /* background-repeat: repeat-x; */
+    background-size: contain;
+    background-blend-mode:multiply;
+    background-color:gray;
+    color:rgba(6, 228, 54, 0.977);
+    background-position: top center;
+}
+.page-title{
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* text-align: center; */
+    background-color: #c51ec570;
+    border-radius: 50px;
+    margin-left: 600px;
+    margin-right: 600px;
+    text-align: center;
+}
+.stylish_word{
+    color: #bab50cd3;
+}
